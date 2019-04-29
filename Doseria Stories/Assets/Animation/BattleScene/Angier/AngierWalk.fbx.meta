@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: b81e5638b3106674aaa300bce1d841da
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Anger_002:cluster1Handle
+    100002: Anger_002:cluster2Handle
+    100004: Anger_002:cluster3Handle
+    100006: Anger_002:Ctrl
+    100008: Anger_002:curve1
+    100010: Anger_002:FGCTRLCL
+    100012: Anger_002:FK
+    100014: Anger_002:FK 1
+    100016: Anger_002:FK1
+    100018: Anger_002:FK1 1
+    100020: Anger_002:FK2
+    100022: Anger_002:FK2 1
+    100024: Anger_002:FK3
+    100026: Anger_002:FK3 1
+    100028: Anger_002:FKC
+    100030: Anger_002:FKC 1
+    100032: Anger_002:group1
+    100034: Anger_002:head
+    100036: Anger_002:IK
+    100038: Anger_002:IK 1
+    100040: Anger_002:IK1
+    100042: Anger_002:IK1 1
+    100044: Anger_002:IK2
+    100046: Anger_002:IK2 1
+    100048: Anger_002:IK3
+    100050: Anger_002:IK3 1
+    100052: Anger_002:IKC
+    100054: Anger_002:IKC 1
+    100056: Anger_002:IKFK
+    100058: Anger_002:IKFK1
+    100060: Anger_002:ikHandle1
+    100062: Anger_002:ikHandle2
+    100064: Anger_002:ikHandle2 1
+    100066: Anger_002:ikHandle3
+    100068: Anger_002:ikHandle3 1
+    100070: Anger_002:ikHandle4
+    100072: Anger_002:ikHandle5
+    100074: Anger_002:ikHandle5 1
+    100076: Anger_002:ikHandle6
+    100078: Anger_002:ikHandle7
+    100080: Anger_002:ikHandle8
+    100082: Anger_002:joint10
+    100084: Anger_002:joint10 1
+    100086: Anger_002:joint11
+    100088: Anger_002:joint11 1
+    100090: Anger_002:joint13
+    100092: Anger_002:joint14
+    100094: Anger_002:joint15
+    100096: Anger_002:joint15 1
+    100098: Anger_002:joint16
+    100100: Anger_002:joint16 1
+    100102: Anger_002:joint16 2
+    100104: Anger_002:joint16 3
+    100106: Anger_002:joint16 4
+    100108: Anger_002:joint16 5
+    100110: Anger_002:joint16 6
+    100112: Anger_002:joint16 7
+    100114: Anger_002:joint16 8
+    100116: Anger_002:joint16 9
+    100118: Anger_002:joint17
+    100120: Anger_002:joint17 1
+    100122: Anger_002:joint17 2
+    100124: Anger_002:joint17 3
+    100126: Anger_002:joint17 4
+    100128: Anger_002:joint17 5
+    100130: Anger_002:joint17 6
+    100132: Anger_002:joint17 7
+    100134: Anger_002:joint17 8
+    100136: Anger_002:joint17 9
+    100138: Anger_002:joint18
+    100140: Anger_002:joint18 1
+    100142: Anger_002:joint18 2
+    100144: Anger_002:joint18 3
+    100146: Anger_002:joint18 4
+    100148: Anger_002:joint18 5
+    100150: Anger_002:joint18 6
+    100152: Anger_002:joint18 7
+    100154: Anger_002:joint19
+    100156: Anger_002:joint19 1
+    100158: Anger_002:joint2
+    100160: Anger_002:joint2 1
+    100162: Anger_002:joint20
+    100164: Anger_002:joint20 1
+    100166: Anger_002:joint21
+    100168: Anger_002:joint21 1
+    100170: Anger_002:joint22
+    100172: Anger_002:joint22 1
+    100174: Anger_002:joint3
+    100176: Anger_002:joint3 1
+    100178: Anger_002:joint4
+    100180: Anger_002:joint4 1
+    100182: Anger_002:joint5
+    100184: Anger_002:joint5 1
+    100186: Anger_002:LF
+    100188: Anger_002:LF 1
+    100190: Anger_002:LF 2
+    100192: Anger_002:LH
+    100194: Anger_002:LHFG
+    100196: Anger_002:LHFG1
+    100198: Anger_002:Lock
+    100200: Anger_002:MD:polySurface1
+    100202: Anger_002:Modle
+    100204: Anger_002:nurbsCircle10
+    100206: Anger_002:nurbsCircle10 1
+    100208: Anger_002:nurbsCircle11
+    100210: Anger_002:nurbsCircle11 1
+    100212: Anger_002:nurbsCircle12
+    100214: Anger_002:nurbsCircle12 1
+    100216: Anger_002:nurbsCircle13
+    100218: Anger_002:nurbsCircle13 1
+    100220: Anger_002:nurbsCircle15
+    100222: Anger_002:nurbsCircle16
+    100224: Anger_002:nurbsCircle17
+    100226: Anger_002:nurbsCircle18
+    100228: Anger_002:nurbsCircle19
+    100230: Anger_002:nurbsCircle2
+    100232: Anger_002:nurbsCircle2 1
+    100234: Anger_002:nurbsCircle22
+    100236: Anger_002:nurbsCircle22 1
+    100238: Anger_002:nurbsCircle3
+    100240: Anger_002:nurbsCircle3 1
+    100242: Anger_002:nurbsCircle4
+    100244: Anger_002:nurbsCircle4 1
+    100246: Anger_002:nurbsCircle6
+    100248: Anger_002:nurbsCircle7
+    100250: Anger_002:nurbsCircle8
+    100252: Anger_002:nurbsCircle8 1
+    100254: Anger_002:nurbsCircle9
+    100256: Anger_002:nurbsCircle9 1
+    100258: Anger_002:polyToCurve1
+    100260: Anger_002:polyToCurve1 1
+    100262: Anger_002:polyToCurve10
+    100264: Anger_002:polyToCurve10 1
+    100266: Anger_002:polyToCurve11
+    100268: Anger_002:polyToCurve11 1
+    100270: Anger_002:polyToCurve12
+    100272: Anger_002:polyToCurve12 1
+    100274: Anger_002:polyToCurve13
+    100276: Anger_002:polyToCurve13 1
+    100278: Anger_002:polyToCurve14
+    100280: Anger_002:polyToCurve14 1
+    100282: Anger_002:polyToCurve15
+    100284: Anger_002:polyToCurve15 1
+    100286: Anger_002:polyToCurve2
+    100288: Anger_002:polyToCurve2 1
+    100290: Anger_002:polyToCurve3
+    100292: Anger_002:polyToCurve3 1
+    100294: Anger_002:polyToCurve4
+    100296: Anger_002:polyToCurve4 1
+    100298: Anger_002:polyToCurve5
+    100300: Anger_002:polyToCurve5 1
+    100302: Anger_002:polyToCurve6
+    100304: Anger_002:polyToCurve6 1
+    100306: Anger_002:polyToCurve7
+    100308: Anger_002:polyToCurve7 1
+    100310: Anger_002:polyToCurve8
+    100312: Anger_002:polyToCurve8 1
+    100314: Anger_002:polyToCurve9
+    100316: Anger_002:polyToCurve9 1
+    100318: Anger_002:Remote
+    100320: Anger_002:RF
+    100322: Anger_002:RH
+    100324: Anger_002:RHCL
+    100326: Anger_002:SK
+    100328: Anger_002:SK1
+    100330: Anger_002:SK1 1
+    100332: Anger_002:SK2
+    100334: Anger_002:SK2 1
+    100336: Anger_002:SK3
+    100338: Anger_002:SK3 1
+    100340: Anger_002:transform17
+    100342: Anger_002:transform20
+    100344: Anger_002:transform21
+    100346: Anger_002:transform22
+    100348: Anger_002:typeMesh1Curves1
+    100350: Anger_002:typeMesh1Curves1 1
+    100352: Anger_002:typeMesh2Curves1
+    100354: Anger_002:typeMesh2Curves1 1
+    100356: B1
+    100358: B2
+    100360: B3
+    100362: buttom
+    100364: Head
+    100366: LArm
+    100368: LFeet
+    100370: LFingerGrp
+    100372: RArm
+    100374: RFeet
+    100376: RFeetGrp
+    100378: RFingerGrp
+    100380: //RootNode
+    100382: Weapon:pCube1
+    400000: Anger_002:cluster1Handle
+    400002: Anger_002:cluster2Handle
+    400004: Anger_002:cluster3Handle
+    400006: Anger_002:Ctrl
+    400008: Anger_002:curve1
+    400010: Anger_002:FGCTRLCL
+    400012: Anger_002:FK
+    400014: Anger_002:FK 1
+    400016: Anger_002:FK1
+    400018: Anger_002:FK1 1
+    400020: Anger_002:FK2
+    400022: Anger_002:FK2 1
+    400024: Anger_002:FK3
+    400026: Anger_002:FK3 1
+    400028: Anger_002:FKC
+    400030: Anger_002:FKC 1
+    400032: Anger_002:group1
+    400034: Anger_002:head
+    400036: Anger_002:IK
+    400038: Anger_002:IK 1
+    400040: Anger_002:IK1
+    400042: Anger_002:IK1 1
+    400044: Anger_002:IK2
+    400046: Anger_002:IK2 1
+    400048: Anger_002:IK3
+    400050: Anger_002:IK3 1
+    400052: Anger_002:IKC
+    400054: Anger_002:IKC 1
+    400056: Anger_002:IKFK
+    400058: Anger_002:IKFK1
+    400060: Anger_002:ikHandle1
+    400062: Anger_002:ikHandle2
+    400064: Anger_002:ikHandle2 1
+    400066: Anger_002:ikHandle3
+    400068: Anger_002:ikHandle3 1
+    400070: Anger_002:ikHandle4
+    400072: Anger_002:ikHandle5
+    400074: Anger_002:ikHandle5 1
+    400076: Anger_002:ikHandle6
+    400078: Anger_002:ikHandle7
+    400080: Anger_002:ikHandle8
+    400082: Anger_002:joint10
+    400084: Anger_002:joint10 1
+    400086: Anger_002:joint11
+    400088: Anger_002:joint11 1
+    400090: Anger_002:joint13
+    400092: Anger_002:joint14
+    400094: Anger_002:joint15
+    400096: Anger_002:joint15 1
+    400098: Anger_002:joint16
+    400100: Anger_002:joint16 1
+    400102: Anger_002:joint16 2
+    400104: Anger_002:joint16 3
+    400106: Anger_002:joint16 4
+    400108: Anger_002:joint16 5
+    400110: Anger_002:joint16 6
+    400112: Anger_002:joint16 7
+    400114: Anger_002:joint16 8
+    400116: Anger_002:joint16 9
+    400118: Anger_002:joint17
+    400120: Anger_002:joint17 1
+    400122: Anger_002:joint17 2
+    400124: Anger_002:joint17 3
+    400126: Anger_002:joint17 4
+    400128: Anger_002:joint17 5
+    400130: Anger_002:joint17 6
+    400132: Anger_002:joint17 7
+    400134: Anger_002:joint17 8
+    400136: Anger_002:joint17 9
+    400138: Anger_002:joint18
+    400140: Anger_002:joint18 1
+    400142: Anger_002:joint18 2
+    400144: Anger_002:joint18 3
+    400146: Anger_002:joint18 4
+    400148: Anger_002:joint18 5
+    400150: Anger_002:joint18 6
+    400152: Anger_002:joint18 7
+    400154: Anger_002:joint19
+    400156: Anger_002:joint19 1
+    400158: Anger_002:joint2
+    400160: Anger_002:joint2 1
+    400162: Anger_002:joint20
+    400164: Anger_002:joint20 1
+    400166: Anger_002:joint21
+    400168: Anger_002:joint21 1
+    400170: Anger_002:joint22
+    400172: Anger_002:joint22 1
+    400174: Anger_002:joint3
+    400176: Anger_002:joint3 1
+    400178: Anger_002:joint4
+    400180: Anger_002:joint4 1
+    400182: Anger_002:joint5
+    400184: Anger_002:joint5 1
+    400186: Anger_002:LF
+    400188: Anger_002:LF 1
+    400190: Anger_002:LF 2
+    400192: Anger_002:LH
+    400194: Anger_002:LHFG
+    400196: Anger_002:LHFG1
+    400198: Anger_002:Lock
+    400200: Anger_002:MD:polySurface1
+    400202: Anger_002:Modle
+    400204: Anger_002:nurbsCircle10
+    400206: Anger_002:nurbsCircle10 1
+    400208: Anger_002:nurbsCircle11
+    400210: Anger_002:nurbsCircle11 1
+    400212: Anger_002:nurbsCircle12
+    400214: Anger_002:nurbsCircle12 1
+    400216: Anger_002:nurbsCircle13
+    400218: Anger_002:nurbsCircle13 1
+    400220: Anger_002:nurbsCircle15
+    400222: Anger_002:nurbsCircle16
+    400224: Anger_002:nurbsCircle17
+    400226: Anger_002:nurbsCircle18
+    400228: Anger_002:nurbsCircle19
+    400230: Anger_002:nurbsCircle2
+    400232: Anger_002:nurbsCircle2 1
+    400234: Anger_002:nurbsCircle22
+    400236: Anger_002:nurbsCircle22 1
+    400238: Anger_002:nurbsCircle3
+    400240: Anger_002:nurbsCircle3 1
+    400242: Anger_002:nurbsCircle4
+    400244: Anger_002:nurbsCircle4 1
+    400246: Anger_002:nurbsCircle6
+    400248: Anger_002:nurbsCircle7
+    400250: Anger_002:nurbsCircle8
+    400252: Anger_002:nurbsCircle8 1
+    400254: Anger_002:nurbsCircle9
+    400256: Anger_002:nurbsCircle9 1
+    400258: Anger_002:polyToCurve1
+    400260: Anger_002:polyToCurve1 1
+    400262: Anger_002:polyToCurve10
+    400264: Anger_002:polyToCurve10 1
+    400266: Anger_002:polyToCurve11
+    400268: Anger_002:polyToCurve11 1
+    400270: Anger_002:polyToCurve12
+    400272: Anger_002:polyToCurve12 1
+    400274: Anger_002:polyToCurve13
+    400276: Anger_002:polyToCurve13 1
+    400278: Anger_002:polyToCurve14
+    400280: Anger_002:polyToCurve14 1
+    400282: Anger_002:polyToCurve15
+    400284: Anger_002:polyToCurve15 1
+    400286: Anger_002:polyToCurve2
+    400288: Anger_002:polyToCurve2 1
+    400290: Anger_002:polyToCurve3
+    400292: Anger_002:polyToCurve3 1
+    400294: Anger_002:polyToCurve4
+    400296: Anger_002:polyToCurve4 1
+    400298: Anger_002:polyToCurve5
+    400300: Anger_002:polyToCurve5 1
+    400302: Anger_002:polyToCurve6
+    400304: Anger_002:polyToCurve6 1
+    400306: Anger_002:polyToCurve7
+    400308: Anger_002:polyToCurve7 1
+    400310: Anger_002:polyToCurve8
+    400312: Anger_002:polyToCurve8 1
+    400314: Anger_002:polyToCurve9
+    400316: Anger_002:polyToCurve9 1
+    400318: Anger_002:Remote
+    400320: Anger_002:RF
+    400322: Anger_002:RH
+    400324: Anger_002:RHCL
+    400326: Anger_002:SK
+    400328: Anger_002:SK1
+    400330: Anger_002:SK1 1
+    400332: Anger_002:SK2
+    400334: Anger_002:SK2 1
+    400336: Anger_002:SK3
+    400338: Anger_002:SK3 1
+    400340: Anger_002:transform17
+    400342: Anger_002:transform20
+    400344: Anger_002:transform21
+    400346: Anger_002:transform22
+    400348: Anger_002:typeMesh1Curves1
+    400350: Anger_002:typeMesh1Curves1 1
+    400352: Anger_002:typeMesh2Curves1
+    400354: Anger_002:typeMesh2Curves1 1
+    400356: B1
+    400358: B2
+    400360: B3
+    400362: buttom
+    400364: Head
+    400366: LArm
+    400368: LFeet
+    400370: LFingerGrp
+    400372: RArm
+    400374: RFeet
+    400376: RFeetGrp
+    400378: RFingerGrp
+    400380: //RootNode
+    400382: Weapon:pCube1
+    2100000: Anger_002_MD_initialShadingGroup1
+    2100002: Anger_002_MD_initialShadingGroup3
+    2100004: Anger_002_MD_initialShadingGroup5
+    2100006: lambert1
+    4300000: Anger_002:MD:polySurface1
+    4300002: Weapon:pCube1
+    7400000: AngierWalk
+    9500000: //RootNode
+    13700000: Anger_002:MD:polySurface1
+    13700002: Weapon:pCube1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AngierWalk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 2
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

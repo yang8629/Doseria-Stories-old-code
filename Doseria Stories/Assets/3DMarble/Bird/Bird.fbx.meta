@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: c731a8f287ceb6e44bbac5020d506952
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm1
+    100002: arm1 1
+    100004: arm2
+    100006: arm2 1
+    100008: arm3
+    100010: arm3 1
+    100012: BDcurve
+    100014: //RootNode
+    100016: Body
+    100018: Body1
+    100020: Body2
+    100022: Body3
+    100024: Body4
+    100026: Chin
+    100028: Chin1
+    100030: cluster10Handle
+    100032: cluster12Handle
+    100034: cluster6Handle
+    100036: cluster7Handle
+    100038: cluster8Handle
+    100040: cluster9Handle
+    100042: Ctrl
+    100044: curve1
+    100046: Dragon:Object005
+    100048: Elbow
+    100050: Elbow 1
+    100052: fingersA
+    100054: fingersA 1
+    100056: fingersA1
+    100058: fingersA1 1
+    100060: fingersA2
+    100062: fingersA2 1
+    100064: fingersA3
+    100066: fingersA3 1
+    100068: fingersB
+    100070: fingersB 1
+    100072: fingersB1
+    100074: fingersB1 1
+    100076: fingersB2
+    100078: fingersB2 1
+    100080: fingersB3
+    100082: fingersB3 1
+    100084: fingersC
+    100086: fingersC 1
+    100088: fingersC1
+    100090: fingersC1 1
+    100092: fingersC2
+    100094: fingersC2 1
+    100096: fingersC3
+    100098: fingersC3 1
+    100100: fingersD
+    100102: fingersD 1
+    100104: fingersD1
+    100106: fingersD1 1
+    100108: fingersD2
+    100110: fingersD2 1
+    100112: fingersD3
+    100114: fingersD3 1
+    100116: group1
+    100118: group2
+    100120: handRP
+    100122: handRP 1
+    100124: HandRPhandle
+    100126: handSC
+    100128: handSC 1
+    100130: HandSChandle
+    100132: HandSChandle 1
+    100134: Head
+    100136: HeadCluster
+    100138: ikHandle1
+    100140: ikHandle12
+    100142: ikHandle13
+    100144: ikHandle14
+    100146: ikHandle2
+    100148: ikHandle2 1
+    100150: ikHandle3
+    100152: ikHandle3 1
+    100154: ikHandle4
+    100156: ikHandle4 1
+    100158: ikHandle5
+    100160: ikHandle5 1
+    100162: ikHandle6
+    100164: joint1
+    100166: joint2
+    100168: joint3
+    100170: joint4
+    100172: Larm
+    100174: Larm 1
+    100176: Lock
+    100178: ModleGrp
+    100180: Neck
+    100182: Neck1
+    100184: Neck2
+    100186: nurbsCircle1
+    100188: nurbsCircle10
+    100190: nurbsCircle10 1
+    100192: nurbsCircle11
+    100194: nurbsCircle12
+    100196: nurbsCircle13
+    100198: nurbsCircle16
+    100200: nurbsCircle17
+    100202: nurbsCircle18
+    100204: nurbsCircle19
+    100206: nurbsCircle2
+    100208: nurbsCircle3
+    100210: nurbsCircle4
+    100212: nurbsCircle4 1
+    100214: nurbsCircle5
+    100216: nurbsCircle5 1
+    100218: Rarm
+    100220: Rarm 1
+    100222: RarmGrp
+    100224: tongue1
+    100226: tongue2
+    100228: transform1
+    100230: transform3
+    100232: transform4
+    100234: transform5
+    100236: wings
+    100238: wings 1
+    100240: wings1
+    100242: wings1 1
+    100244: wings2
+    100246: wings2 1
+    100248: wings3
+    100250: wings3 1
+    100252: WingsEL
+    100254: WingsEL 1
+    100256: WingsIK
+    100258: WingsIK 1
+    100260: WingsIK1
+    100262: WingsIK1 1
+    100264: WingsLGrp
+    100266: WingsLJ1
+    100268: WingsLJ10
+    100270: WingsLJ11
+    100272: WingsLJ2
+    100274: WingsLJ3
+    100276: WingsLJ4
+    100278: WingsLJ5
+    100280: WingsLJ6
+    100282: WingsLJ7
+    100284: WingsLJ8
+    100286: WingsLJ9
+    100288: WingsRGrp
+    100290: WingsRJ1
+    100292: WingsRJ10
+    100294: WingsRJ11
+    100296: WingsRJ2
+    100298: WingsRJ3
+    100300: WingsRJ4
+    100302: WingsRJ5
+    100304: WingsRJ6
+    100306: WingsRJ7
+    100308: WingsRJ8
+    100310: WingsRJ9
+    400000: arm1
+    400002: arm1 1
+    400004: arm2
+    400006: arm2 1
+    400008: arm3
+    400010: arm3 1
+    400012: BDcurve
+    400014: //RootNode
+    400016: Body
+    400018: Body1
+    400020: Body2
+    400022: Body3
+    400024: Body4
+    400026: Chin
+    400028: Chin1
+    400030: cluster10Handle
+    400032: cluster12Handle
+    400034: cluster6Handle
+    400036: cluster7Handle
+    400038: cluster8Handle
+    400040: cluster9Handle
+    400042: Ctrl
+    400044: curve1
+    400046: Dragon:Object005
+    400048: Elbow
+    400050: Elbow 1
+    400052: fingersA
+    400054: fingersA 1
+    400056: fingersA1
+    400058: fingersA1 1
+    400060: fingersA2
+    400062: fingersA2 1
+    400064: fingersA3
+    400066: fingersA3 1
+    400068: fingersB
+    400070: fingersB 1
+    400072: fingersB1
+    400074: fingersB1 1
+    400076: fingersB2
+    400078: fingersB2 1
+    400080: fingersB3
+    400082: fingersB3 1
+    400084: fingersC
+    400086: fingersC 1
+    400088: fingersC1
+    400090: fingersC1 1
+    400092: fingersC2
+    400094: fingersC2 1
+    400096: fingersC3
+    400098: fingersC3 1
+    400100: fingersD
+    400102: fingersD 1
+    400104: fingersD1
+    400106: fingersD1 1
+    400108: fingersD2
+    400110: fingersD2 1
+    400112: fingersD3
+    400114: fingersD3 1
+    400116: group1
+    400118: group2
+    400120: handRP
+    400122: handRP 1
+    400124: HandRPhandle
+    400126: handSC
+    400128: handSC 1
+    400130: HandSChandle
+    400132: HandSChandle 1
+    400134: Head
+    400136: HeadCluster
+    400138: ikHandle1
+    400140: ikHandle12
+    400142: ikHandle13
+    400144: ikHandle14
+    400146: ikHandle2
+    400148: ikHandle2 1
+    400150: ikHandle3
+    400152: ikHandle3 1
+    400154: ikHandle4
+    400156: ikHandle4 1
+    400158: ikHandle5
+    400160: ikHandle5 1
+    400162: ikHandle6
+    400164: joint1
+    400166: joint2
+    400168: joint3
+    400170: joint4
+    400172: Larm
+    400174: Larm 1
+    400176: Lock
+    400178: ModleGrp
+    400180: Neck
+    400182: Neck1
+    400184: Neck2
+    400186: nurbsCircle1
+    400188: nurbsCircle10
+    400190: nurbsCircle10 1
+    400192: nurbsCircle11
+    400194: nurbsCircle12
+    400196: nurbsCircle13
+    400198: nurbsCircle16
+    400200: nurbsCircle17
+    400202: nurbsCircle18
+    400204: nurbsCircle19
+    400206: nurbsCircle2
+    400208: nurbsCircle3
+    400210: nurbsCircle4
+    400212: nurbsCircle4 1
+    400214: nurbsCircle5
+    400216: nurbsCircle5 1
+    400218: Rarm
+    400220: Rarm 1
+    400222: RarmGrp
+    400224: tongue1
+    400226: tongue2
+    400228: transform1
+    400230: transform3
+    400232: transform4
+    400234: transform5
+    400236: wings
+    400238: wings 1
+    400240: wings1
+    400242: wings1 1
+    400244: wings2
+    400246: wings2 1
+    400248: wings3
+    400250: wings3 1
+    400252: WingsEL
+    400254: WingsEL 1
+    400256: WingsIK
+    400258: WingsIK 1
+    400260: WingsIK1
+    400262: WingsIK1 1
+    400264: WingsLGrp
+    400266: WingsLJ1
+    400268: WingsLJ10
+    400270: WingsLJ11
+    400272: WingsLJ2
+    400274: WingsLJ3
+    400276: WingsLJ4
+    400278: WingsLJ5
+    400280: WingsLJ6
+    400282: WingsLJ7
+    400284: WingsLJ8
+    400286: WingsLJ9
+    400288: WingsRGrp
+    400290: WingsRJ1
+    400292: WingsRJ10
+    400294: WingsRJ11
+    400296: WingsRJ2
+    400298: WingsRJ3
+    400300: WingsRJ4
+    400302: WingsRJ5
+    400304: WingsRJ6
+    400306: WingsRJ7
+    400308: WingsRJ8
+    400310: WingsRJ9
+    2100000: Dragon_Material__170
+    4300000: Dragon:Object005
+    9500000: //RootNode
+    13700000: Dragon:Object005
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
